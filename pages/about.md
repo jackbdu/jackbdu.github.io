@@ -8,7 +8,7 @@ Jack B. Du is an artist and researcher whose practice centers around the experim
 
 Jack holds a Bachelor of Science degree in Computer Science and Interactive Media Arts from _NYU Shanghai_ and is currently pursuing a Master of Professional Studies degree in Interactive Telecommunications at _NYU Tisch_. Jack also serves as an adjunct professor at _NYU Tisch_, where he teaches programming and machine learning as mediums for creative expression.
 
-## Contact
+## CONTACT
 
 Follow me on [Instagram](https://instagram.com/jackbdu) to see my daily coding experiments.
 
@@ -16,7 +16,7 @@ Subscribe to [My Coding Show](https://www.youtube.com/channel/UCUP34ETx7nvIbd4yp
 
 Email me via [hi@jackbdu.com](mailto:hi@jackbdu.com) for collaboration or commission inquires.
 
-## Artist Statement
+## ARTIST STATEMENT
 
 I speak the language of computers. I encode my stories, emotions, curiosities, and experiences into images, animations, and interactive visuals through the relentless act of daily coding. My works are never truly finished. I am constantly on a journey of exploration, experimentation, and reiteration.
 
@@ -24,7 +24,9 @@ Coding as an art practice is much like painting. Code is a sequence of character
 
 My work often deconstructs visuals into pixelated fragments, an aesthetic rooted in nostalgia for the early days of computing and the Internet. In a capitalistic society that prizes rapid technological advancement and superhuman precision, I enjoy creating scribbly and often chaotic visuals to celebrate the poetic beauty of human imperfection and computational glitches, while also leaving space for people to decode meaning through the lens of their own lived experiences.
 
-## Selected Exhibitions
+## SELECTED EXHIBITIONS
+
+2025 \| “Mouth Synth” _ARTECHOUSE NYC_, New York, NY, USA
 
 2024 \| “Daily Sketches (2022)” _C3 Dev Festival_, Amsterdam, Netherlands
 
@@ -58,15 +60,19 @@ My work often deconstructs visuals into pixelated fragments, an aesthetic rooted
 
 2017 \| “Minus E” _Undergraduate Research Symposium_, NYU Shanghai, Shanghai, China
 
-## Selected Teaching and Workshops
+## SELECTED COURSES AND WORKSHOPS
 
 **New York University, Tisch School of the Arts**, New York, NY, USA
 
-2024 \| IMNY-UT 224 Introduction to Machine Learning for the Arts, IMA (Undergraduate)
+2023 – 2025 \| IMNY-UT 101 Creative Computing, IMA (Undergraduate)
 
-2023 – 2024 \| IMNY-UT 101 Creative Computing, IMA (Undergraduate)
+2024 \| [IMNY-UT 224 Introduction to Machine Learning for the Arts](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/), IMA (Undergraduate)
 
 2024 \| Creative Coding Workshop Series for Absolute Beginners, ITP Camp
+
+**Harvard University**, Cambridge, MA, USA
+
+2025 \| Creative Coding and Machine Learning Workshop, Harvard Conflux Winter Residency
 
 **Dongming Neighborhood Development Center**, Shanghai, China
 
@@ -90,7 +96,11 @@ My work often deconstructs visuals into pixelated fragments, an aesthetic rooted
 
 2020 – 2022 \| Web Development Workshop Series for Absolute Beginners
 
-## Selected Talks and Presentations
+## SELECTED TALKS AND PRESENTATIONS
+
+2024 \| Featured Interview, _Informal Studio_, Dubai, UAE
+
+2023 \| Artist Talk, _NYU Tisch_, Brooklyn, NY, USA
 
 2023 \| Artist Talk: Daily Experiments in Creative Coding, _Maker Faire Coney Island_, Brooklyn, NY, USA
 
@@ -108,7 +118,7 @@ My work often deconstructs visuals into pixelated fragments, an aesthetic rooted
 
 2017 \| Artist Talk, _Shanghai Library_, Shanghai, China
 
-## Selected Awards and Grants
+## SELECTED AWARDS AND GRANTS
 
 2023 – 2025 \| Tisch School of Arts Graduate Scholarship, NYU, USA
 
@@ -124,7 +134,7 @@ My work often deconstructs visuals into pixelated fragments, an aesthetic rooted
 
 2015 \| Dean’s Undergraduate Research Fund, NYU Shanghai, China
 
-## Selected Press and Publications
+## SELECTED PRESS AND PUBLICATIONS
 
 2023 \| Jack B. Du: [Daily Sketches (2022)](https://doi.org/10.1145/3615522.3615571). _The 16th International Symposium on Visual Information Communication and Interaction_ (VINCI 2023), September 22–24, 2023, Guangzhou, China. ACM, New York, NY, USA, 2 pages. [https://doi.org/10.1145/3615522.3615571](https://doi.org/10.1145/3615522.3615571)
 
