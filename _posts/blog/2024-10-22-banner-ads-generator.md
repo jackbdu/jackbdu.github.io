@@ -7,7 +7,7 @@ description:
 published: true
 ---
 
-[ [View Freshly-Synthsized Banner Ads](http://ad.jbd.lol/) ]
+[ [View Freshly-Synthsized Banner Ads](https://jackbdu.itch.io/infinite-banner-ads) ]
 
 ![](/media{{ page.url }}20241213-67_03726.jpg)
 
